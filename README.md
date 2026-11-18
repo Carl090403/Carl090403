@@ -1,11 +1,11 @@
 # Hi, I'm Carlos
 
-I'm a software developer in the Ottawa–Gatineau region, Canada. I build web apps and APIs that do the boring parts right: bookings that can't be double-booked, transfers that can't be charged twice, and data migrations that account for every dollar.
+I'm a software developer in the Ottawa–Gatineau region, Canada. I build web apps and APIs.
 
 I graduated from the University of Ottawa in Computer Engineering (Cum Laude) and I work in **English and French**.
 
 **I'm looking for:**
-- **Remote full-time roles**, junior to intermediate (backend, full-stack or data)
+- ** On-site, hybrid or Remote full-time roles**, junior to intermediate (backend, full-stack or data)
 - **Freelance projects**: booking systems, internal tools, REST APIs, AI features, or moving messy data into a clean database
 
 ---
@@ -69,6 +69,6 @@ This list updates itself every day from my newest public repositories.
 
 **Need something built?** Send me two or three lines about the problem: what's slow, broken or missing. I'll reply with questions and a rough plan. <!-- TODO: say how fast you reply, e.g. "within 48 hours" -->
 
-📧 **fadjebecarlos@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/carlos-fadjebe-7803852b3)
+🌐 **https://portfolio01-carl090403s-projects.vercel.app/** 📧 **fadjebecarlos@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/carlos-fadjebe-7803852b3)
 
 *Je travaille aussi en français, n'hésitez pas à m'écrire en français.*
