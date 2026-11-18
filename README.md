@@ -46,11 +46,11 @@ Python · Java 17 · SQLite · CI
 This list updates itself every day from my newest public repositories.
 
 <!-- RECENT-PROJECTS:START -->
+- **[Portfolio01](https://github.com/Carl090403/Portfolio01)**: Carlos Fadjebe Portfolio · `HTML` · [live](https://portfolio01-five-zeta.vercel.app) · Nov 2026
 - **[transfer-ledger-service-java](https://github.com/Carl090403/transfer-ledger-service-java)**: Java 17 port of my transfer ledger API: same HTTP contract, same rules, 28 JUnit tests. · `Java` · Nov 2026
 - **[rlc-seg-pipeline](https://github.com/Carl090403/rlc-seg-pipeline)**: Multi-threaded C11 pipeline: packet segmentation, reassembly and CRC-32 over a bounded MPMC queue. · `C` · Nov 2026
 - **[transfer-ledger-service](https://github.com/Carl090403/transfer-ledger-service)**: Funds-transfer API in Python: integer cents, atomic SQLite transactions, idempotency keys, 43 tests. · `Python` · Nov 2026
 - **[cx-survey](https://github.com/Carl090403/cx-survey)**: PHP 8.3 survey API: NPS and rating questions, queued AI sentiment analysis, aggregated reports. · `PHP` · Nov 2026
-- **[utility-billing-migration](https://github.com/Carl090403/utility-billing-migration)**: Python/pandas ETL that moves a messy legacy billing database into a clean schema, reconciled to the cent. · `Python` · Nov 2026
 <!-- RECENT-PROJECTS:END -->
 
 ---
